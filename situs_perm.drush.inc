@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Situs permission plugin
+ */
+
+/**
  * Implements hook_situs_pre_build().
  */
 function situs_perm_situs_pre_build() {
